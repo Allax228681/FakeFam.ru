@@ -23,7 +23,7 @@
   </style>
 </head>
 <body>
-  <p style="text-align:center;font-size:100px;color:black;margin-top:-10px;margin-bottom:-10px;background-color:#BDBDBD;font-family:georgia;font-weight:bold;">Fake<span style="color:white;">Fam</p>
+  <p style="text-align:center;font-size:100px;color:black;margin-top:-10px;margin-bottom:-10px;background-color:#BDBDBD;font-family:georgia;font-weight:bold;">Fake<span style="color:white;">Fam</span>></p>
   <p style="color:blue;text-align:right;font-size:30px;background-color:#BDBDBD;text-align:center;margin-top:-5px;margin-bottom:-30px;font-family:arial;font-weight:bold;"><a href="C:\Users\New\Desktop\проект стартап\FFfi.html" class="button-link">Сотрудничество</a></p>
   <p style="color:#BDBDBD;text-align:right;font-size:30px;background-color:#BDBDBD;text-align:center;margin-bottom:-30px;font-family:arial;font-weight:bold;">-</p>
   <br/>
