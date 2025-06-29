@@ -4,33 +4,34 @@
   <title>FakeFam</title>
   <style>
     .button-link {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #4CAF50;
-    color: white;
-    text-decoration: none;
-    border-radius: 4px;
-    font-family: Arial, sans-serif;
-    font-size: 16px;
-    cursor: pointer;
+      display: inline-block;
+      padding: 10px 20px;
+      background-color: #4CAF50;
+      color: white;
+      text-decoration: none;
+      border-radius: 4px;
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      cursor: pointer;
     }
     .button-link:hover {
-    background-color: #45a049;
+      background-color: #45a049;
     }
-    body{
-    background:#474747
+    body {
+      background:#474747
     }
   </style>
 </head>
 <body>
-  <p style="text-align:center;font-size:100px;color:black;margin-top:-10px;margin-bottom:-10px;background-color:#BDBDBD;font-family:georgia;font-weight:bold;">Fake<span style="color:white;">Fam</span>></p>
+  <p style="text-align:center;font-size:100px;color:black;margin-top:-10px;margin-bottom:-10px;background-color:#BDBDBD;font-family:georgia;font-weight:bold;">Fake<span style="color:white;">Fam</span></p>
+  <p style="text-align:center;font-size:100px;color:black;margin-top:-10px;margin-bottom:-10px;background-color:#BDBDBD;font-family:georgia;font-weight:bold;">Fake<span style="color:white;">Fam</span></p>
   <p style="color:blue;text-align:right;font-size:30px;background-color:#BDBDBD;text-align:center;margin-top:-5px;margin-bottom:-30px;font-family:arial;font-weight:bold;"><a href="C:\Users\New\Desktop\проект стартап\FFfi.html" class="button-link">Сотрудничество</a></p>
   <p style="color:#BDBDBD;text-align:right;font-size:30px;background-color:#BDBDBD;text-align:center;margin-bottom:-30px;font-family:arial;font-weight:bold;">-</p>
   <br/>
   <p style="text-align:center;font-size:30px;color:white;font-family:arial;font-weight:bold;">"У вас нет дяди? Мы вам его одолжим!"</p>
   <p style="text-align:center;font-size:30px;color:white;font-family:arial;font-weight:bold;">Мы предлагагаем профессиональных дядь и тёть,<br/>которые помогают в самых различных ситу-<br/>ациях - от разговора с начальником до спа-<br/>сения от свидания, благодаря профессиона-<br/>лам - среди них есть акктеры, переговорщики<br/>и даже бывшие охранники.</p>
   <p style="text-align:center;font-size:35px;color:white;font-family:arial;font-weight:bold;">Разовые услуги:</p>
-  <p style="text-align:center;font-size:30px;margin-top:-25px;color:white;font-family:arial;font-weight:bold;">1. Фейк родственник на час - 1500-3000р.<br/>2. Папик на день - 5000-10000р.<br/>3. Виртуальная семья - 7000р/мес.<br/>
+  <p style="text-align:center;font-size:30px;margin-top:-25px;color:white;font-family:arial;font-weight:bold;">1. Фейк родственник на час - 1500-3000р.<br/>2. Папик на день - 5000-10000р.<br/>3. Виртуальная семья - 7000р/мес.<br/></p>
   <p style="text-align:center;font-size:35px;color:white;font-family:arial;font-weight:bold;">Подписки:</p>
   <p style="text-align:center;font-size:30px;margin-top:-25px;color:white;font-family:arial;font-weight:bold;">1. Базовый - 2490р/мес:</p>
   <p style="text-align:center;font-size:25px;margin-top:-25px;color:white;font-family:arial;font-weight:bold;">· 1 вызов родственника в месяц.<br/>· Доступ к шаблонам фейковых переписок.</p>
