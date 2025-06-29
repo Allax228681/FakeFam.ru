@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>FakeFam</title>
@@ -40,7 +39,7 @@
 <body>
   <div class="header">Fake<span class="white-text">Fam</span></div>
   
-  <p style="color:blue;text-align:right;font-size:30px;background-color:#BDBDBD;text-align:center;margin-top:-5px;margin-bottom:-30px;font-family:arial;font-weight:bold;"><a href="C:\Users\New\Desktop\проект стартап\FFfi.html" class="button-link">Сотрудничество</a></p>
+  <p style="color:blue;text-align:right;font-size:30px;background-color:#BDBDBD;text-align:center;margin-top:-5px;margin-bottom:-30px;font-family:arial;font-weight:bold;"><a href="https://allax228681.github.io/FFFI.ru/" class="button-link">Сотрудничество</a></p>
   <p style="color:#BDBDBD;text-align:right;font-size:30px;background-color:#BDBDBD;text-align:center;margin-bottom:-30px;font-family:arial;font-weight:bold;">-</p>
   <br/>
   <p style="text-align:center;font-size:30px;color:white;font-family:arial;font-weight:bold;">"У вас нет дяди? Мы вам его одолжим!"</p>
